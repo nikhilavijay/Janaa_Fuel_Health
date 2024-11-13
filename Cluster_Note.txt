@@ -1,0 +1,5 @@
+The following 27 clusters are included in this file but do not contain any
+households for which interviews were completed: 41802, 42328, 42301, 43516,
+43822, 43830, 43826, 44429, 44405, 44423, 44412, 44401, 44416, 44606, 44605, 
+44642, 44624, 44627, 44637, 44601, 44636, 44616, 44626, 45914, 46605, 51803,
+and 52132.

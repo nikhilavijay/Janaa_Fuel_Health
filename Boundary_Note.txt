@@ -1,0 +1,4 @@
+The GPS coordinates for household clusters in the two island union territories,
+Andaman & Nicobar Islands and Lakshadweep, are displaced within boundaries produced
+by The DHS Program and do not align with the SSIB. This was done because the SSIB
+misplace Andaman & Nicobar Islands and Lakshadweep.
